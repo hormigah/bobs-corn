@@ -1,0 +1,15 @@
+meta {
+  name: Counter
+  type: http
+  seq: 2
+}
+
+get {
+  url: http://localhost:3000/api/v1/corn/{{email}}
+  body: none
+  auth: inherit
+}
+
+vars:pre-request {
+  email: hormigah@gmail.com
+}

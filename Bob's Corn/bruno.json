@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Bob's Corn",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
