@@ -7,6 +7,12 @@ This project has the following applications:
 - Postgres databases: Database SQL where persist users data and orders data
 
 
+### Highlights
+- Tech stack: PERN + Typescript + TailwindCSS + Base-UI
+- Hide API backend from front-end
+- React with Vite
+
+
 ### Setup .env file
 
 ```js
